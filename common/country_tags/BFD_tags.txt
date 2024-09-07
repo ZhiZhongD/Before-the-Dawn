@@ -1,0 +1,6 @@
+BYZ = "countries/BFD_defaut_countrys.txt"
+RUS = "countries/BFD_defaut_countrys.txt"
+PUS = "countries/BFD_defaut_countrys.txt"
+BAV = "countries/BFD_defaut_countrys.txt"
+RES = "countries/BFD_defaut_countrys.txt"
+GMA = "countries/BFD_defaut_countrys.txt"

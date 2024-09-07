@@ -1,0 +1,111 @@
+##reload posteffectvolumes
+#PostEffectVolumes.Enabled
+#PostEffectVolumes.Draw
+
+posteffect_values = {
+	name = standard	
+	
+	#lut = "gfx/world/colorcorrection_neutral.tga"
+	lut = "gfx/world/colorcorrection.tga"
+	
+	
+	#hdr_min_adjustment
+	#hdr_max_adjustment
+	BLOOM_WIDTH = 1.5
+	BLOOM_SCALE = 0.1
+	BRIGHT_THRESHOLD = 0.1
+	tonemap_middlegrey = 0.55
+}
+
+
+posteffect_values = {
+	name = default
+	inherit = standard
+	
+	#lut = "gfx/world/colorcorrection.tga"
+	#lut = "gfx/world/colorcorrection_neutral.tga"
+	lut = "gfx/world/colorcorrection_standard.tga"
+	
+	#BLOOM_WIDTH = 1.5
+	#BLOOM_SCALE = 0.9
+	#BRIGHT_THRESHOLD = 0.9
+	#tonemap_middlegrey = 0.55
+}
+
+posteffect_values = {
+	name = default_night
+	inherit = standard
+	
+	#lut = "gfx/world/colorcorrection.tga"
+	#lut = "gfx/world/colorcorrection_neutral.tga"
+
+	
+	#BLOOM_WIDTH = 1.5
+	#BLOOM_SCALE = 0.9
+	#BRIGHT_THRESHOLD = 0.9
+	#tonemap_middlegrey = 0.3
+	
+	
+	#lut = "gfx/world/colorcorrection_neutral.tga"
+	lut = "gfx/world/colorcorrection_farrange_night.tga"
+	#lut = "gfx/world/colorcorrection_midrange.tga"
+	#lut = "gfx/world/colorcorrection_standard.tga"
+	
+	#BLOOM_WIDTH = 2.0
+	#BLOOM_SCALE = 0.5
+	#BRIGHT_THRESHOLD = 0.1
+	#hdr_min_adjustment = 1.0
+	#hdr_max_adjustment = 0.8
+	#tonemap_middlegrey = 0.65
+}
+
+
+posteffect_values = {
+	name = winter_values_day
+	inherit = standard
+	
+	#lut = "gfx/world/colorcorrection_neutral.tga"
+	lut = "gfx/world/colorcorrection_winter.tga"
+	
+	tonemap_middlegrey = 0.8
+	#hdr_min_adjustment = 1.0
+	#hdr_max_adjustment = 0.3
+	
+	
+}
+
+posteffect_values = {
+	name = winter_values_night
+	inherit = standard
+
+	#lut = "gfx/world/colorcorrection_neutral.tga"
+	lut = "gfx/world/colorcorrection_winter.tga"
+	
+	#BLOOM_WIDTH = 2.5
+	#BLOOM_SCALE = 5.5
+	#BRIGHT_THRESHOLD = 0.7
+	tonemap_middlegrey = 0.8
+			
+}
+
+################################# 
+
+############ VOLUMES ############ 
+############ HEIGHTS ############ 
+
+#################################
+
+posteffect_volumes = {
+
+	
+	posteffect_height_volume = {
+		name = "Base"
+		
+		posteffect_values_day = default
+		posteffect_values_night = default_night
+		
+		height = 0
+		fade_distance = 0
+	}
+	
+}
