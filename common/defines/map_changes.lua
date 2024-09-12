@@ -8,7 +8,7 @@ NDefines.NGraphics.GRADIENT_BORDERS_THICKNESS_COUNTRY_HIGH = 5  -- How blurry co
 
 NDefines.NGraphics.BORDER_WIDTH = 1
 
-NDefines.NGraphics.GRADIENT_BORDERS_CAMERA_DISTANCE_OVERRIDE_COUNTRY = 0.15 -- 0.99 is borders only, 0.01 is full coverage
+NDefines.NGraphics.GRADIENT_BORDERS_CAMERA_DISTANCE_OVERRIDE_COUNTRY = 0.001 -- 0.99 is borders only, 0.01 is full coverage
 
 NDefines.NGraphics.DRAW_COUNTRY_NAMES_CUTOFF = 400.0
 NDefines.NGraphics.PROVINCE_NAME_DRAW_DISTANCE = 200.0 			-- Remove province names beyond this distance

@@ -13,7 +13,7 @@ state = {
 
 		owner = CHL
 		add_core_of = CHL
-		add_claim_by = PUS
+		add_claim_by = PRE
 
 		buildings = {
 			infrastructure = 1

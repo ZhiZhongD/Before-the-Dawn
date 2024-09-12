@@ -6,11 +6,11 @@ state={
 	state_category = city
 
 	history={
-		owner = PUS
-		add_core_of = PUS
+		owner = PRE
+		add_core_of = PRE
 		
 		victory_points = {
-			6332 10 
+			6332 20 
 		}
 
 		buildings = {

@@ -5,26 +5,21 @@ set_war_support = 0.3
 
 set_research_slots = 4
 
-set_autonomy = {
-	target = HUN
-	autonomy_state = autonomy_puppet
-}
-set_autonomy = {
-	target = CZE
-	autonomy_state = autonomy_puppet
-}
-set_autonomy = {
-	target = LBV
-	autonomy_state = autonomy_puppet
-}
-set_autonomy = {
-	target = GMA
-	autonomy_state = autonomy_puppet
-}
-set_autonomy = {
-	target = CRO
-	autonomy_state = autonomy_puppet
-}
+
+create_faction = Holy_Roman_Empire
+add_to_faction = PRE
+add_to_faction = BAY
+add_to_faction = RHN
+add_to_faction = FRN
+add_to_faction = THU
+add_to_faction = WTF
+add_to_faction = BRE
+add_to_faction = SWI
+add_to_faction = WUR
+add_to_faction = HAN
+add_to_faction = MEK
+add_to_faction = SAX
+add_to_faction = SHL
 
 
 
@@ -80,6 +75,12 @@ recruit_character = AUS_franz_bohme
 recruit_character = AUS_eugen_beyer
 recruit_character = AUS_julius_raab
 recruit_character = AUS_leopold_figl
+recruit_character = HUN_otto_von_habsburg
+
+HUN_otto_von_habsburg = {
+	promote_character = yes
+	promote_leader = yes
+}
 
 
 set_politics = {
@@ -96,3 +97,23 @@ set_popularities = {
 	communism = 1
 }
 
+set_autonomy = {
+	target = HUN
+	autonomy_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = CZE
+	autonomy_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = LBV
+	autonomy_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = GMA
+	autonomy_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = CRO
+	autonomy_state = autonomy_integrated_puppet
+}

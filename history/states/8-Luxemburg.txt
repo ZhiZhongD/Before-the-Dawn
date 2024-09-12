@@ -10,9 +10,9 @@ state=
 		steel=5 # was: 8
 	}
 
-	history=
-	{
-		owner = LUX
+	history = {
+		owner = HOL
+		add_core_of = HOL
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

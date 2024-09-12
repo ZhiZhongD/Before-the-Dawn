@@ -1,6 +1,23 @@
 BYZ = "countries/BFD_defaut_countrys.txt"
 RUS = "countries/BFD_defaut_countrys.txt"
-PUS = "countries/BFD_defaut_countrys.txt"
-BAV = "countries/BFD_defaut_countrys.txt"
+
 RES = "countries/BFD_defaut_countrys.txt"
 GMA = "countries/BFD_defaut_countrys.txt"
+RHN = "countries/BFD_defaut_countrys.txt"
+PRO = "countries/BFD_defaut_countrys.txt"
+FRN = "countries/BFD_defaut_countrys.txt"
+THU = "countries/BFD_defaut_countrys.txt"
+WTF = "countries/BFD_defaut_countrys.txt"
+BRE = "countries/BFD_defaut_countrys.txt"
+BLS = "countries/BFD_defaut_countrys.txt"
+BUR = "countries/BFD_defaut_countrys.txt"
+NRM = "countries/BFD_defaut_countrys.txt"
+
+
+
+
+
+
+
+
+

@@ -12,7 +12,8 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = PRO
+		add_core_of = PRO
 		buildings = {
 			infrastructure = 2
 		}

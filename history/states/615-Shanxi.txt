@@ -6,14 +6,12 @@ state=
 	
 	state_category = town
 	
-	history=
-	{
-		owner = SHX
-		add_core_of = SHX
+	history = {
+		owner = CHI
 		add_core_of = CHI
 		add_core_of = PRC
 		victory_points = {
-			1519 3 
+			1519 15 
 		}
 		buildings = {
 			infrastructure = 2
