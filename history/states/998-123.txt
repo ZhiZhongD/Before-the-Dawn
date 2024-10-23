@@ -1,0 +1,19 @@
+state={
+	id=998
+	name="STATE_998"
+	provinces={
+		6537 
+	}
+	history={
+		owner = HOL
+		add_core_of = HOL
+
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	manpower=944743
+	state_category= town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

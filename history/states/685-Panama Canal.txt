@@ -6,7 +6,8 @@ state={
 	state_category = enclave
 
 	history={
-		owner = USA
+		owner = ELS
+		add_core_of = ELS
 		victory_points = {
 			7617 5 
 		}

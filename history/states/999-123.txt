@@ -1,0 +1,28 @@
+state={
+	id=999
+	name="STATE_999"
+	provinces={
+		3530 3679 3692 6542 6568 6581 6712 11640 
+	}
+	history = {
+		owner = BAD
+		add_core_of = BAD
+		victory_points = {
+			3530 10 
+		}
+		victory_points = {
+			11640 1 
+		}
+		victory_points = {
+			6712 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	manpower = 1520000
+	state_category = large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

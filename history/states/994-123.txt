@@ -1,0 +1,22 @@
+state={
+	id=994
+	name="STATE_994"
+	provinces={
+		519 
+	}
+	history = {
+		owner = WUR
+     	buildings = {
+      	    infrastructure = 2
+     	    industrial_complex = 1
+		}
+		victory_points = {
+			519 3 
+		}
+		add_core_of = WUR
+	}
+	manpower = 214660
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

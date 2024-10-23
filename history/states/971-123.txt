@@ -1,0 +1,21 @@
+state={
+	id=971
+	name="STATE_971"
+	provinces={
+		1141 4970 5053 9943 10059 12034 12888 13602 13604 
+	}
+	history={
+		owner = ALG
+		add_core_of = ALG
+
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=811486
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

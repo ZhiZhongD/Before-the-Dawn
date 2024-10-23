@@ -1,8 +1,6 @@
-﻿capital = 493 #Cartagena
+﻿capital = 382 
 
 oob = "CHL_1936"
-
-### CORES = 493, 304, 685, 316, 306, 486, 489, 307, 695, 691
 
 IF = {
 	limit = { has_dlc = "By Blood Alone" }

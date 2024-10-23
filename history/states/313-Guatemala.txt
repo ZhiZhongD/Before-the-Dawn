@@ -10,7 +10,8 @@ state={
 	state_category = town
 
 	history={
-		owner = GUA
+		owner = ELS
+		add_core_of = ELS
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

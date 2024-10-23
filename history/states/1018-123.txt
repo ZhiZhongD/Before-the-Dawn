@@ -1,0 +1,25 @@
+state={
+	id=1018
+	name="STATE_1018"
+	history={
+		owner = SXM
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			482 3
+		}
+		add_core_of = SXM
+
+	}
+
+	provinces={
+		482 3500 6501 
+	}
+	manpower=41600
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

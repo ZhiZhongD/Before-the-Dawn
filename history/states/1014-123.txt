@@ -1,0 +1,23 @@
+state={
+	id=1014
+	name="STATE_1014"
+	history = {
+		owner = MKS
+     		buildings = {
+      		      infrastructure = 2
+     	 	      industrial_complex = 1
+		}
+		victory_points = {
+			3258 3 
+		}
+		add_core_of = MKS
+
+	}
+	provinces={
+		3258 
+	}
+	manpower=20800
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

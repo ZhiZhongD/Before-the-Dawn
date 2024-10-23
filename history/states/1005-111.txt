@@ -1,0 +1,24 @@
+state={
+	id=1005
+	name="STATE_1005"
+	history={
+		owner = HES
+		victory_points = {
+			3574 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = HES
+
+	}
+
+	provinces={
+		3574 
+	}
+	manpower=169240
+	state_category = large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

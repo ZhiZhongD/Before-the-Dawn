@@ -1,0 +1,20 @@
+state={
+	id=990
+	name="STATE_990"
+	provinces={
+		13371 13443 13444 13449 13452 13459 13464 13466 
+	}
+	history={
+		owner = AAA
+		add_core_of = AAA
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+	manpower=1
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

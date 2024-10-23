@@ -1,0 +1,25 @@
+state={
+	id=1015
+	name="STATE_1015"
+	history={
+		owner = SXW
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			425 5 
+		}
+		add_core_of = SXM
+
+	}
+
+	provinces={
+		425 538 
+	}
+	manpower=39000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

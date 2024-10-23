@@ -2253,6 +2253,7 @@
  MLT: "马耳他"
  MLT_DEF: "马耳他"
  MLT_ADJ: "马耳他"
+
  ALG_fascism: "阿尔及利亚哈里发国"
  ALG_fascism_DEF: "阿尔及利亚哈里发国"
  ALG_democratic: "阿尔及利亚共和国"
@@ -2268,6 +2269,10 @@
  ALG: "阿尔及利亚"
  ALG_DEF: "阿尔及利亚"
  ALG_ADJ: "阿尔及利亚"
+
+
+
+
  MOR_fascism: "马格里布帝国"
  MOR_fascism_DEF: "马格里布帝国"
  MOR_democratic: "摩洛哥"
@@ -4319,21 +4324,21 @@
  NAH_communism: "纳瓦人民共和国"
  NAH_communism_DEF: "纳瓦人民共和国"
  NAH_communism_ADJ: "纳瓦人民共和国"
- IAS: "地峡-美洲印第安"
- IAS_DEF: "地峡-美洲印第安"
- IAS_ADJ: "地峡-美洲印第安"
- IAS_fascism: "大地峡-美洲印第安民族国"
- IAS_fascism_DEF: "大地峡-美洲印第安民族国"
- IAS_fascism_ADJ: "大地峡-美洲印第安民族国"
- IAS_democratic: "地峡-美洲印第安联邦"
- IAS_democratic_DEF: "地峡-美洲印第安联邦"
- IAS_democratic_ADJ: "地峡-美洲印第安联邦"
- IAS_neutrality: "地峡-美洲印第安"
- IAS_neutrality_DEF: "地峡-美洲印第安"
- IAS_neutrality_ADJ: "地峡-美洲印第安"
- IAS_communism: "地峡-美洲印第安苏维埃社会主义共和国"
- IAS_communism_DEF: "地峡-美洲印第安苏维埃社会主义共和国"
- IAS_communism_ADJ: "地峡-美洲印第安苏维埃社会主义共和国"
+ IAS: "美洲印第安"
+ IAS_DEF: "美洲印第安"
+ IAS_ADJ: "美洲印第安"
+ IAS_fascism: "大美洲印第安民族国"
+ IAS_fascism_DEF: "大美洲印第安民族国"
+ IAS_fascism_ADJ: "大美洲印第安民族国"
+ IAS_democratic: "美洲印第安联邦"
+ IAS_democratic_DEF: "美洲印第安联邦"
+ IAS_democratic_ADJ: "美洲印第安联邦"
+ IAS_neutrality: "美洲印第安"
+ IAS_neutrality_DEF: "美洲印第安"
+ IAS_neutrality_ADJ: "美洲印第安"
+ IAS_communism: "美洲印第安苏维埃社会主义共和国"
+ IAS_communism_DEF: "美洲印第安苏维埃社会主义共和国"
+ IAS_communism_ADJ: "美洲印第安苏维埃社会主义共和国"
  YUC_fascism: "尤卡坦共治共和国"
  YUC_fascism_DEF: "尤卡坦共治共和国"
  YUC_fascism_ADJ: "尤卡坦共治共和国"
@@ -4459,3 +4464,74 @@
  NRM: "诺曼底王国"
  NRM_ADJ: "诺曼底王国"
  NRM_DEF: "诺曼底王国"
+
+ BAD: "巴登大公国"
+ BAD_DEF: "巴登大公国"
+ BAD_ADJ: "巴登"
+
+ HES: "黑森大公国"
+ HES_DEF: "黑森大公国"
+ HES_ADJ: "黑森"
+
+ NAS: "拿骚大公国"
+ NAS_DEF: "拿骚大公国"
+ NAS_ADJ: "拿骚"
+
+ FRK: "法兰克福公国"
+ FRK_DEF: "法兰克福公国"
+ FRK_ADJ: "法兰克福"
+
+ OLD: "奥尔登堡大公国"
+ OLD_DEF: "奥尔登堡大公国"
+ OLD_ADJ: "奥尔登堡"
+
+ HAM: "汉堡大公国"
+ HAM_DEF: "汉堡大公国"
+ HAM_ADJ: "汉堡"
+
+ LUE: "吕贝克大公国"
+ LUE_DEF: "吕贝克大公国"
+ LUE_ADJ: "吕贝克"
+
+ MKS: "梅克伦堡-施特雷利茨大公国"
+ MKS_DEF: "梅克伦堡-施特雷利茨大公国"
+ MKS_ADJ: "梅克伦堡-施特雷利茨"
+
+ ANH: "安哈尔特公国"
+ ANH_DEF: "安哈尔特公国"
+ ANH_ADJ: "安哈尔特"
+
+ BRU: "不伦瑞克公国"
+ BRU_DEF: "不伦瑞克公国"
+ BRU_ADJ: "不伦瑞克"
+
+ SBL: "绍姆堡-利珀公国"
+ SBL_DEF: "绍姆堡-利珀公国"
+ SBL_ADJ: "绍姆堡 "
+
+ LIP: "利珀公国"
+ LIP_DEF: "利珀公国"
+ LIP_ADJ: "利珀"
+
+ SXW: "萨克森-魏玛大公国"
+ SXW_DEF: "萨克森-魏玛大公国"
+ SXW_ADJ: "魏玛"
+
+ WLD: "瓦尔德克及皮尔蒙特公国"
+ WLD_DEF: "瓦尔德克及皮尔蒙特公国"
+ WLD_ADJ: "瓦尔德克"
+
+ SBG: "施瓦尔茨堡公国"
+ SBG_DEF: "施瓦尔茨堡公国"
+ SBG_ADJ: "施瓦尔茨堡"
+
+ SCG: "萨克森-科堡-哥达公国"
+ SCG_DEF: "萨克森-科堡-哥达公国"
+ SCG_ADJ: "萨克森-科堡"
+
+ SXM: "萨克森-迈宁根公国"
+ SXM_DEF: "萨克森-迈宁根公国"
+ SXM_ADJ: "萨克森-迈宁根"
+
+
+

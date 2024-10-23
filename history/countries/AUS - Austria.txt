@@ -20,8 +20,23 @@ add_to_faction = HAN
 add_to_faction = MEK
 add_to_faction = SAX
 add_to_faction = SHL
-
-
+add_to_faction = BAD
+add_to_faction = HES
+add_to_faction = NAS
+add_to_faction = FRK
+add_to_faction = OLD
+add_to_faction = HAM
+add_to_faction = LUE
+add_to_faction = MKS
+add_to_faction = ANH
+add_to_faction = BRU
+add_to_faction = SBL
+add_to_faction = LIP
+add_to_faction = SXW
+add_to_faction = WLD
+add_to_faction = SBG
+add_to_faction = SCG
+add_to_faction = SXM
 
 oob = "AUS_1936"
 if = {
@@ -99,21 +114,21 @@ set_popularities = {
 
 set_autonomy = {
 	target = HUN
-	autonomy_state = autonomy_integrated_puppet
+	autonomy_state = autonomy_Crown_Domain
 }
 set_autonomy = {
 	target = CZE
-	autonomy_state = autonomy_integrated_puppet
+	autonomy_state = autonomy_Crown_Domain
 }
 set_autonomy = {
 	target = LBV
-	autonomy_state = autonomy_integrated_puppet
+	autonomy_state = autonomy_Crown_Domain
 }
 set_autonomy = {
 	target = GMA
-	autonomy_state = autonomy_integrated_puppet
+	autonomy_state = autonomy_Crown_Domain
 }
 set_autonomy = {
 	target = CRO
-	autonomy_state = autonomy_integrated_puppet
+	autonomy_state = autonomy_Crown_Domain
 }

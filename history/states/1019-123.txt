@@ -1,0 +1,27 @@
+state={
+	id=1019
+	name="STATE_1019"
+	history={
+		victory_points = {
+			9320 10 
+		}
+		owner = LUE
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			dockyard = 2
+
+		}
+		add_core_of = LUE
+		add_claim_by = DEN
+		add_claim_by = PRS
+
+	}
+	provinces={
+		9320 
+	}
+	manpower=112943
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

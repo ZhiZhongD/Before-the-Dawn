@@ -1,0 +1,19 @@
+state={
+	id=996
+	name="STATE_996"
+	provinces={
+		3488 
+	}
+	history={
+		owner = RHN
+		add_core_of = RHN
+
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	manpower=944743
+	state_category= town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

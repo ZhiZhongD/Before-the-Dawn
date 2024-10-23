@@ -1,0 +1,21 @@
+
+state={
+	id=985
+	name="STATE_985"
+	provinces={
+		1958 7908 8088 10731 13493 13510 13517 13531 13533 13534 13538 13545 13551 13562 13563 13569 13579 
+	}
+	history={
+		owner = AAA
+		add_core_of = AAA
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+	manpower=1
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

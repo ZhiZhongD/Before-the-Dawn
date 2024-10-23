@@ -1,0 +1,20 @@
+state={
+	id=993
+	name="STATE_993"
+	provinces={
+		8035 13425 13428 13439 13445 13446 13456 
+	}
+	history={
+		owner = AAA
+		add_core_of = AAA
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+	manpower=1
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

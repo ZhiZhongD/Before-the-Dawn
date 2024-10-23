@@ -1,0 +1,21 @@
+state={
+	id=1028
+	name="STATE_1028"
+	provinces={
+		3646 3650 3666 6668 
+	}
+	history={
+		owner = BUR
+		add_core_of = BUR
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 1
+		}
+	}
+	manpower=1580000
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1018,11 +1018,81 @@ NRM = {
 	color = rgb  { 131 101 85  }
 	color_ui = rgb  { 131 101 85  }
 }
+BAD = {
+	color = rgb { 255 215 0 } 
+	color_ui = rgb { 255 215 0 } 
+}
+HES = {
+	color = rgb { 233 23 23 } 
+	color_ui = rgb { 123 215 0 } 
+}
+NAS = {
+	color = rgb { 56 197 223 } 
+	color_ui = rgb { 123 215 0 } 
+}
+FRK = {
+	color = rgb { 255 197 223 } 
+	color_ui = rgb { 123 215 0 } 
+}
+OLD = {
+	color = rgb { 0 150 200 } 
+	color_ui = rgb { 123 215 0 } 
+}
+HAM = {
+	color = rgb { 100 150 200 } 
+	color_ui = rgb { 123 215 0 } 
+}
+LUE = {
+	color = rgb { 223 123 4 } 
+	color_ui = rgb { 123 215 0 } 
+}
+MKS = {
+	color = rgb { 181 106 22 } 
+	color_ui = rgb { 123 215 0 } 
+}
+ANH = {
+	color = rgb { 115 163 39 } 
+	color_ui = rgb { 123 215 0 } 
+}
+
+BRU = {
+	color = rgb { 29 138 116 } 
+	color_ui = rgb { 123 215 0 } 
+}
+SBL = {
+	color = rgb { 175 135 49 } 
+	color_ui = rgb { 123 215 0 } 
+}
+LIP = {
+	color = rgb { 57 69 156 } 
+	color_ui = rgb { 123 215 0 } 
+}
+SXW = {
+	color = rgb { 213 38 38 } 
+	color_ui = rgb { 123 215 0 } 
+}
+WLD =  {
+	color = rgb { 109 88 88 } 
+	color_ui = rgb { 123 215 0 } 
+}
+SBG =  {
+	color = rgb { 56 129 129 } 
+	color_ui = rgb { 123 215 0 } 
+}
+SCG =  {
+	color = rgb { 161 146 39 } 
+	color_ui = rgb { 123 215 0 } 
+}
+SXM =  {
+	color = rgb { 20 117 214 } 
+	color_ui = rgb { 123 215 0 } 
+}
 
 
 
 
 
-
-
-
+AAA = {
+	color = rgb  { 10 10 10  }
+	color_ui = rgb  { 10 10 10  }
+}

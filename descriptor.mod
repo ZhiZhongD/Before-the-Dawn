@@ -2,5 +2,9 @@ version="0.1"
 tags={
 	"Map"
 }
+replace_path="common/decisions"
+replace_path="common/national_focus"
+replace_path="map"
+replace_path="map/strategicregions"
 name="BFD"
 supported_version="1.14.8"

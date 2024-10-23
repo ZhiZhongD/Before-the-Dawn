@@ -10,7 +10,7 @@ state={
 		owner = PRO
 		add_core_of = PRO
 		victory_points = {
-			911 1 
+			911 10
 		}
 		buildings = {
 			infrastructure = 3

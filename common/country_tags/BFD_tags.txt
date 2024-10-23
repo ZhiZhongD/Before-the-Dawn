@@ -1,6 +1,5 @@
 BYZ = "countries/BFD_defaut_countrys.txt"
 RUS = "countries/BFD_defaut_countrys.txt"
-
 RES = "countries/BFD_defaut_countrys.txt"
 GMA = "countries/BFD_defaut_countrys.txt"
 RHN = "countries/BFD_defaut_countrys.txt"
@@ -13,6 +12,23 @@ BLS = "countries/BFD_defaut_countrys.txt"
 BUR = "countries/BFD_defaut_countrys.txt"
 NRM = "countries/BFD_defaut_countrys.txt"
 
+BAD = "countries/BFD_defaut_countrys.txt"
+HES = "countries/BFD_defaut_countrys.txt"
+NAS = "countries/BFD_defaut_countrys.txt"
+FRK = "countries/BFD_defaut_countrys.txt"
+OLD = "countries/BFD_defaut_countrys.txt"
+HAM = "countries/BFD_defaut_countrys.txt"
+LUE = "countries/BFD_defaut_countrys.txt"
+MKS = "countries/BFD_defaut_countrys.txt"
+ANH = "countries/BFD_defaut_countrys.txt"
+BRU = "countries/BFD_defaut_countrys.txt"
+SBL = "countries/BFD_defaut_countrys.txt"
+LIP = "countries/BFD_defaut_countrys.txt"
+SXW = "countries/BFD_defaut_countrys.txt"
+WLD = "countries/BFD_defaut_countrys.txt"
+SBG = "countries/BFD_defaut_countrys.txt"
+SCG = "countries/BFD_defaut_countrys.txt"
+SXM = "countries/BFD_defaut_countrys.txt"
 
 
 
@@ -20,4 +36,4 @@ NRM = "countries/BFD_defaut_countrys.txt"
 
 
 
-
+AAA = "countries/BFD_defaut_countrys.txt"

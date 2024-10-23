@@ -1,0 +1,22 @@
+state={
+	id=1006
+	name="STATE_1006"
+	history = {
+		owner = FRK
+		victory_points = {
+			589 20
+		}
+     		buildings = {
+      		      infrastructure = 2
+     	 	      industrial_complex = 1
+		}
+		add_core_of = FRK
+	}
+	provinces={
+		589 
+	}
+	manpower=520000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

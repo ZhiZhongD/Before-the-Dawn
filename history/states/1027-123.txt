@@ -1,0 +1,24 @@
+state={
+	id=1027
+	name="STATE_1027"
+	provinces={
+		521 11516 
+	}
+	history={
+		owner = BUR
+		add_core_of = BUR
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 1
+		}
+		victory_points = {
+			11516 15 
+		}
+	}
+	manpower=1580000
+	state_category= city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
